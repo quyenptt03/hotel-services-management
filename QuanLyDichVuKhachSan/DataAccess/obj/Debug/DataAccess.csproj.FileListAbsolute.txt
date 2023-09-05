@@ -1,0 +1,51 @@
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.pdb
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.dll
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.pdb
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.dll
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.dll
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.dll
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.pdb
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.dll
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.dll
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.dll
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.dll
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.dll
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.dll
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.dll
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.dll
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.dll
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.pdb
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.dll
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\DataAccess\bin\Debug\DataAccess.pdb
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.dll
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\DataAccess\obj\Debug\DataAccess.pdb

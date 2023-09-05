@@ -1,0 +1,242 @@
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe.config
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.pdb
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDangNhap.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoanhThu.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoiMatKhau.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.Properties.Resources.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.GenerateResource.cache
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.exe
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.pdb
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmKhachHang.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChinh.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChiTietHD.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmHoaDon.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDSDV.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmCapNhatDV.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmPhong.resources
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe.config
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.pdb
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmCapNhatDV.resources
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDSDV.resources
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChinh.resources
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChiTietHD.resources
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDangNhap.resources
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoanhThu.resources
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoiMatKhau.resources
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmHoaDon.resources
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmKhachHang.resources
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmPhong.resources
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.Properties.Resources.resources
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.GenerateResource.cache
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.exe
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.pdb
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe.config
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.exe
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.pdb
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.pdb
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.dll
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.dll
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.pdb
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.pdb
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmCapNhatDV.resources
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDSDV.resources
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChinh.resources
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChiTietHD.resources
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDangNhap.resources
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoanhThu.resources
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoiMatKhau.resources
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmHoaDon.resources
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmKhachHang.resources
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmPhong.resources
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.Properties.Resources.resources
+C:\Users\cict\Downloads\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.GenerateResource.Cache
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe.config
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.pdb
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.dll
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.dll
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.pdb
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.pdb
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.AssemblyReference.cache
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmCapNhatDV.resources
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDSDV.resources
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChinh.resources
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChiTietHD.resources
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDangNhap.resources
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoanhThu.resources
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoiMatKhau.resources
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmHoaDon.resources
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmKhachHang.resources
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmPhong.resources
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.Properties.Resources.resources
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.GenerateResource.cache
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CoreCompileInputs.cache
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CopyComplete
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.exe
+D:\Nam 2\PTUDDK\QuanLyDichVuKhachSan (2)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.pdb
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe.config
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.pdb
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.dll
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.dll
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.pdb
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmCapNhatDV.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDSDV.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChinh.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChiTietHD.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDangNhap.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoanhThu.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoiMatKhau.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmHoaDon.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmKhachHang.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmPhong.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.Properties.Resources.resources
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.GenerateResource.cache
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CopyComplete
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.exe
+D:\hk2_n1\desktop\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.pdb
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe.config
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.pdb
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.dll
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.dll
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.pdb
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.pdb
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.AssemblyReference.cache
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmCapNhatDV.resources
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDSDV.resources
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChinh.resources
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChiTietHD.resources
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDangNhap.resources
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoanhThu.resources
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoiMatKhau.resources
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmHoaDon.resources
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmKhachHang.resources
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmPhong.resources
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.Properties.Resources.resources
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.GenerateResource.cache
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CoreCompileInputs.cache
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CopyComplete
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.exe
+D:\Nam 2\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan (1)\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.pdb
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe.config
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.pdb
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.dll
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.dll
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.pdb
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmCapNhatDV.resources
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDSDV.resources
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChinh.resources
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChiTietHD.resources
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDangNhap.resources
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoanhThu.resources
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoiMatKhau.resources
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmHoaDon.resources
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmKhachHang.resources
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmPhong.resources
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.Properties.Resources.resources
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.GenerateResource.cache
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CopyComplete
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.exe
+D:\hk2_n1\desktop\SưaDV\New folder\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.pdb
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe.config
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.pdb
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.dll
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.dll
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.pdb
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmCapNhatDV.resources
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDSDV.resources
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChinh.resources
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChiTietHD.resources
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDangNhap.resources
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoanhThu.resources
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoiMatKhau.resources
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmHoaDon.resources
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmKhachHang.resources
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmPhong.resources
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.Properties.Resources.resources
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.GenerateResource.cache
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CopyComplete
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.exe
+D:\hk2_n1\desktop\SưaDV\thât\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.pdb
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.dll
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.dll
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.pdb
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\SưaDV\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CopyComplete
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe.config
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.pdb
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.dll
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.dll
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.pdb
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.pdb
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmCapNhatDV.resources
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDSDV.resources
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChinh.resources
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChiTietHD.resources
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDangNhap.resources
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoanhThu.resources
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoiMatKhau.resources
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmHoaDon.resources
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmKhachHang.resources
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmPhong.resources
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.Properties.Resources.resources
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.GenerateResource.cache
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CopyComplete
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.exe
+D:\hk2_n1\desktop\SưaDV\uu\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.pdb
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.AssemblyReference.cache
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmCapNhatDV.resources
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChiTietHD.resources
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDSDV.resources
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmChinh.resources
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDangNhap.resources
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoanhThu.resources
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmDoiMatKhau.resources
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmHoaDon.resources
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmKhachHang.resources
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.frmPhong.resources
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.Properties.Resources.resources
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.GenerateResource.cache
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CoreCompileInputs.cache
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.exe
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.pdb
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe.config
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.exe
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\QuanLyDichVuKhachSan.pdb
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.dll
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.dll
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\BussinessLogic.pdb
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\bin\Debug\DataAccess.pdb
+D:\Nam 2\real\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\QuanLyDichVuKhachSan\obj\Debug\QuanLyDichVuKhachSan.csproj.CopyComplete
